@@ -18,8 +18,8 @@ export class TodoComponent implements OnInit {
     });
 
     this.todoData.push({
-      id: 1,
-      name: 'Ring Call',
+      id: 2,
+      name: 'EKYC  Call',
       description: 'Calli regarding chat function how it will work',
     });
   }
