@@ -12,6 +12,7 @@ export class TodoComponent implements OnInit {
 
   ngOnInit() {
     this.todoData.push({
+      
       id: 1,
       name: 'Ring Call',
       description: 'Calli regarding chat function how it will work',
